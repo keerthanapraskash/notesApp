@@ -1,4 +1,4 @@
-
+// this is index.js
 const yargs = require('yargs')
 //yargs.version('1.1.0')
 yargs.command({
